@@ -1,1 +1,2 @@
-# CoffeeMinsk
+# Сайт "Coffee Minsk"
+## Это сайт
